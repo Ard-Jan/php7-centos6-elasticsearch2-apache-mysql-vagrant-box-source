@@ -1,16 +1,17 @@
 ---
 php_packages:
   - php71w
-  - php71w-opcache
-  - php71w-fpm
+  - php71w-bcmath
   - php71w-cli
   - php71w-common
   - php71w-devel
+  - php71w-fpm
   - php71w-gd
   - php71w-intl
   - php71w-mbstring
   - php71w-mcrypt
   - php71w-mysqlnd
+  - php71w-opcache
   - php71w-pdo
   - php71w-pear
   - php71w-pecl-imagick
