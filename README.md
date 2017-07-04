@@ -13,7 +13,7 @@ Source environment for my [PHP7 CentOS Elasticsearch Mysql vagrant box](https://
 * Nginx 1.12
 * PHP 7.1.3
 * MySQL 5.6.33
-* Java JRE 8u112
+* Java JRE 8u131
 * Kibana 4.6.3
     * Kibana sense plugin
 * Ruby 2.1.4
