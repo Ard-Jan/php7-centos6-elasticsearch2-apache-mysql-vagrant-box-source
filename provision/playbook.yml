@@ -6,11 +6,9 @@
   roles:
     - common
     - repo_install
-    - capistrano
     - php7
     - mysql
     - apache
-    - beanstalkd
     - composer
     - bash
     - java

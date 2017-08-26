@@ -15,13 +15,10 @@ Source environment for my [CentOS6 php7 Elasticsearch Apache Mysql Vagrant Box](
 * Java JRE 8u131
 * Kibana 4.6.x
     * Kibana sense plugin
-* Ruby 2.1.4
-* Beanstalkd "latest"
 * Composer "latest"
 * Elasticsearch 2.x
     * Elasticsearch Kopf plugin
     * Elasticsearch Mapper-attachement plugin
-* Capistrano 2.15.9
 
 ### Instructions
 
