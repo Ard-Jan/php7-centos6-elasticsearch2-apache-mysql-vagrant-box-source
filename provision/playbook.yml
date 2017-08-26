@@ -9,7 +9,7 @@
     - capistrano
     - php7
     - mysql
-    - nginx
+    - apache
     - beanstalkd
     - composer
     - bash
